@@ -1,0 +1,948 @@
+user_id,name,email,course_id,course_title,steps_completed,steps_total,course_completed,course_completed_on,course_started_on,course_total_time_on,course_last_step_id,course_last_step_type,course_last_step_title,last_login_date
+31,31,31,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,1/13/2019,,1799,Lesson,1.1 Course Overview,8/5/2019
+31,31,31,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/5/2019
+31,31,31,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+31,31,31,2301,Beyond the Cloud of Everyday Experience: Brian Greene,53,67,NO,,10/24/2018,104d 8m 48s,2619,Lesson,3.22 String Theory,8/5/2019
+31,31,31,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+31,31,31,11236,Life as the Next Frontier in Physics: Sara Walker,14,45,NO,,3/4/2019,41d 20h 33m 49s,12112,Lesson,1.14 What is Life?,8/5/2019
+31,31,31,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/28/2019,2/28/2019,13m 8s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+31,31,31,3722,Resources,0,3,NO,,9/28/2018,,3902,Lesson,World Science Scholars Program Orientation,8/5/2019
+31,31,31,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+31,31,31,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+78,78,78,1613,A Beautiful Universe: Cumrun Vafa,34,60,NO,,10/16/2018,43d 9h 39m 19s,2330,Lesson,1.21 Puzzle: Points and Regions,8/15/2019
+78,78,78,15362,A Galactic Mystery: Justin Khoury,1,28,NO,,,,15761,Lesson,1.4 The Case for Dark Matter,8/15/2019
+78,78,78,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,7/16/2019,,18847,Lesson,2.16 Current and Future Uses,8/15/2019
+78,78,78,2301,Beyond the Cloud of Everyday Experience: Brian Greene,29,67,NO,,10/6/2018,18d 14h 39m 21s,5165,Lesson,1.4 Extremes of Speed Reaction,8/15/2019
+78,78,78,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/15/2019
+78,78,78,15609,Einstein's Astrophysical Messengers: Gabriela González,8,31,NO,,8/14/2019,30s,15626,Lesson,3.1 Going Deeper,8/15/2019
+78,78,78,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,8/15/2019
+78,78,78,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/15/2019
+78,78,78,3722,Resources,0,3,NO,,,,,,,8/15/2019
+78,78,78,19780,Resources '19,0,4,NO,,,,,,,8/15/2019
+78,78,78,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/15/2019
+78,78,78,18395,The Universe's Hierarchy: George F.R. Ellis,8,32,NO,,8/14/2019,31s,18800,Lesson,3.1 Going Deeper,8/15/2019
+32,32,32,1613,A Beautiful Universe: Cumrun Vafa,57,60,NO,,12/7/2018,169d 2h 32m 52s,14083,Lesson,Live Session: Cumrun Vafa,8/15/2019
+32,32,32,15362,A Galactic Mystery: Justin Khoury,24,28,NO,,5/26/2019,14d 10h 52m 53s,18173,Lesson,3.2 Live Session: Justin Khoury,8/15/2019
+32,32,32,18818,"Accelerate, Collide, Detect: Barry Barish",16,31,NO,,8/12/2019,6h 54m 46s,18841,Lesson,2.10 Particle Physics and Dark Matter,8/15/2019
+32,32,32,2301,Beyond the Cloud of Everyday Experience: Brian Greene,59,67,NO,,10/28/2018,15d 3h 34m 40s,2613,Lesson,3.14 Putting It All Together,8/15/2019
+32,32,32,15609,Einstein's Astrophysical Messengers: Gabriela González,24,31,NO,,8/7/2019,5d 48m 10s,18211,Lesson,2.20 Multi-Messenger Astronomy,8/15/2019
+32,32,32,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,5/26/2019,3/7/2019,79d 23h 33m 16s,14622,Lesson,2.3 Cellular Automata Challenge,8/15/2019
+32,32,32,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/20/2019,2/20/2019,1m 25s,13826,Lesson,1.4 Thoughts on Life,8/15/2019
+32,32,32,3722,Resources,0,3,NO,,5/26/2019,,3902,Lesson,World Science Scholars Program Orientation,8/15/2019
+32,32,32,19118,The Early Universe: Matias Zaldarriaga,1,27,NO,,8/15/2019,3h 17m 31s,19142,Lesson,1.2 Testing the Limits of Cosmology I,8/15/2019
+32,32,32,18395,The Universe's Hierarchy: George F.R. Ellis,12,32,NO,,8/8/2019,3d 13h 24m 34s,18631,Lesson,2.8 Hierarchical Functions and Reactions,8/15/2019
+33,33,33,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,2/15/2019,12/30/2018,46d 22h 44m 13s,14083,Lesson,Live Session: Cumrun Vafa,7/17/2019
+33,33,33,15362,A Galactic Mystery: Justin Khoury,28,28,YES,4/20/2019,4/19/2019,1d 4h 46m 29s,17536,Lesson,1.16 Observational Signatures,7/17/2019
+33,33,33,18818,"Accelerate, Collide, Detect: Barry Barish",3,31,NO,,7/18/2019,26s,18829,Lesson,1.3 Theoretical vs. Experimental Physics,7/17/2019
+33,33,33,2301,Beyond the Cloud of Everyday Experience: Brian Greene,62,67,NO,,10/22/2018,31d 17h 17m 24s,2619,Lesson,3.22 String Theory,7/17/2019
+33,33,33,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/17/2019
+33,33,33,11236,Life as the Next Frontier in Physics: Sara Walker,41,45,NO,,3/4/2019,12d 18h 11m 40s,15520,Lesson,Live Session 1: Sara Walker,7/17/2019
+33,33,33,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/4/2019,2/18/2019,13d 19h 46m 34s,13826,Lesson,1.4 Thoughts on Life,7/17/2019
+33,33,33,3722,Resources,0,3,NO,,4/2/2019,,3902,Lesson,World Science Scholars Program Orientation,7/17/2019
+33,33,33,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/17/2019
+33,33,33,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/17/2019
+34,34,34,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,12/18/2018,12/6/2018,32d 15h 11m 34s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,8/13/2019
+34,34,34,15362,A Galactic Mystery: Justin Khoury,22,28,NO,,4/15/2019,78d 5m 30s,18090,Lesson,2.5 Headlines,8/13/2019
+34,34,34,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/13/2019
+34,34,34,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,11/14/2018,10/23/2018,21d 15h 26m 19s,4714,Lesson,3.18 String Theory,8/13/2019
+34,34,34,15609,Einstein's Astrophysical Messengers: Gabriela González,31,31,YES,7/26/2019,6/30/2019,25d 21h 8m 47s,18210,Lesson,2.15 Gabriela González QA,8/13/2019
+34,34,34,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/14/2019,3/4/2019,41d 3h 49m 26s,15520,Lesson,Live Session 1: Sara Walker,8/13/2019
+34,34,34,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/18/2019,2/18/2019,30m 47s,13826,Lesson,1.4 Thoughts on Life,8/13/2019
+34,34,34,3722,Resources,0,3,NO,,,,,,,8/13/2019
+34,34,34,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/13/2019
+34,34,34,18395,The Universe's Hierarchy: George F.R. Ellis,18,32,NO,,7/26/2019,18d 17h 50m 7s,18638,Lesson,2.11 Hierarchy of Structure and Causation,8/13/2019
+35,35,35,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,3/25/2019,12/29/2018,85d 5h 56m 11s,9742,Lesson,3.3 Comparison Between Dimensions,8/5/2019
+35,35,35,15362,A Galactic Mystery: Justin Khoury,1,28,NO,,5/29/2019,18h 10m 25s,15568,Lesson,1.1 The Case for Dark Matter,8/5/2019
+35,35,35,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+35,35,35,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,3/25/2019,10/31/2018,144d 22h 56m 56s,4714,Lesson,3.18 String Theory,8/5/2019
+35,35,35,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+35,35,35,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,5/30/2019,3/20/2019,71d 9h 56m 53s,17610,Lesson,Live Session 2:  Sara Walker,8/5/2019
+35,35,35,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/27/2019,2/18/2019,8d 8h 33m 25s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+35,35,35,3722,Resources,3,3,YES,2/19/2019,12/29/2018,51d 22h 40m 30s,3789,Lesson,Meet the Scholars,8/5/2019
+35,35,35,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+35,35,35,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+36,36,36,1613,A Beautiful Universe: Cumrun Vafa,34,60,NO,,12/6/2018,38d 20h 49m 41s,2467,Lesson,3.9 Questions on A Beautiful Universe,8/6/2019
+36,36,36,15362,A Galactic Mystery: Justin Khoury,1,28,NO,,4/16/2019,22m 43s,15568,Lesson,1.1 The Case for Dark Matter,8/6/2019
+36,36,36,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/6/2019
+36,36,36,2301,Beyond the Cloud of Everyday Experience: Brian Greene,47,67,NO,,11/10/2018,4d 5m 33s,4713,Quiz,3.18 String Theory,8/6/2019
+36,36,36,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/6/2019
+36,36,36,11236,Life as the Next Frontier in Physics: Sara Walker,35,45,NO,,3/5/2019,23d 42m 40s,12114,Lesson,3.7 Signatures of Life,8/6/2019
+36,36,36,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/10/2019,2/10/2019,23m 47s,13826,Lesson,1.4 Thoughts on Life,8/6/2019
+36,36,36,3722,Resources,0,3,NO,,,,,,,8/6/2019
+36,36,36,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/6/2019
+36,36,36,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/6/2019
+133,133,133,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/2/2019
+133,133,133,19780,Resources '19,0,4,NO,,7/2/2019,,19787,Lesson,Meet the 2018 Scholars,7/2/2019
+37,37,37,1613,A Beautiful Universe: Cumrun Vafa,55,60,NO,,12/22/2018,4d 23h 48m 17s,2469,Lesson,3.12 Black Hole Thermodynamics,8/4/2019
+37,37,37,15362,A Galactic Mystery: Justin Khoury,1,28,NO,,,,17536,Lesson,1.16 Observational Signatures,8/4/2019
+37,37,37,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/4/2019
+37,37,37,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,12/31/2018,11/11/2018,50d 4h 19m 27s,11950,Lesson,Live Session with Professor Brian Greene,8/4/2019
+37,37,37,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/4/2019
+37,37,37,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/4/2019,24d 1h 7m 27s,12114,Lesson,3.7 Signatures of Life,8/4/2019
+37,37,37,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/4/2019,2/25/2019,7d 19m 40s,13826,Lesson,1.4 Thoughts on Life,8/4/2019
+37,37,37,3722,Resources,0,3,NO,,,,,,,8/4/2019
+37,37,37,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/4/2019
+37,37,37,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/4/2019
+38,38,38,1613,A Beautiful Universe: Cumrun Vafa,9,60,NO,,1/16/2019,61d 7h 20m 3s,2263,Quiz,1.14 Continuity,3/21/2019
+38,38,38,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,3/21/2019
+38,38,38,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,3/21/2019
+38,38,38,2301,Beyond the Cloud of Everyday Experience: Brian Greene,41,67,NO,,11/19/2018,58d 39m 21s,3078,Quiz,3.8 New View of Reality,3/21/2019
+38,38,38,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,3/21/2019
+38,38,38,11236,Life as the Next Frontier in Physics: Sara Walker,1,45,NO,,3/21/2019,8m 40s,15850,Lesson,What Is Life? Project,3/21/2019
+38,38,38,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,3/21/2019
+38,38,38,3722,Resources,0,3,NO,,,,,,,3/21/2019
+38,38,38,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,3/21/2019
+38,38,38,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,3/21/2019
+39,39,39,1613,A Beautiful Universe: Cumrun Vafa,57,60,NO,,12/8/2018,55d 23h 42m 7s,14083,Lesson,Live Session: Cumrun Vafa,7/29/2019
+39,39,39,15362,A Galactic Mystery: Justin Khoury,28,28,YES,6/9/2019,6/9/2019,1h 15m 16s,18245,Lesson,3.3 End of Course Survey,7/29/2019
+39,39,39,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/29/2019
+39,39,39,2301,Beyond the Cloud of Everyday Experience: Brian Greene,56,67,NO,,10/27/2018,19d 14h 19m 50s,2619,Lesson,3.22 String Theory,7/29/2019
+39,39,39,15609,Einstein's Astrophysical Messengers: Gabriela González,31,31,YES,7/5/2019,7/5/2019,48m 50s,18578,Lesson,3.3 End of Course Survey,7/29/2019
+39,39,39,11236,Life as the Next Frontier in Physics: Sara Walker,35,45,NO,,3/4/2019,13d 16h 27m 11s,14219,Lesson,3.3 Other Signatures?,7/29/2019
+39,39,39,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/10/2019,2/10/2019,10m 47s,13826,Lesson,1.4 Thoughts on Life,7/29/2019
+39,39,39,3722,Resources,0,3,NO,,,,,,,7/29/2019
+39,39,39,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/29/2019
+39,39,39,18395,The Universe's Hierarchy: George F.R. Ellis,14,32,NO,,7/20/2019,9d 19h 57m 41s,18632,Lesson,2.7 What Constitutes Life?,7/29/2019
+134,134,134,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,29,66,NO,,7/27/2019,15d 11h 29m 8s,19004,Lesson,3.2 What Would You Like to Learn?,8/11/2019
+134,134,134,19780,Resources '19,0,4,NO,,7/2/2019,,19788,Lesson,Meet the 2019 Scholars,8/11/2019
+135,135,135,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/1/2019
+135,135,135,19780,Resources '19,2,4,NO,,7/9/2019,6m 8s,19788,Lesson,Meet the 2019 Scholars,8/1/2019
+40,40,40,1613,A Beautiful Universe: Cumrun Vafa,53,60,NO,,12/10/2018,184d 14h 54m 41s,14083,Lesson,Live Session: Cumrun Vafa,8/12/2019
+40,40,40,15362,A Galactic Mystery: Justin Khoury,24,28,NO,,5/29/2019,74d 11h 54m 4s,18173,Lesson,3.2 Live Session: Justin Khoury,8/12/2019
+40,40,40,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/12/2019
+40,40,40,2301,Beyond the Cloud of Everyday Experience: Brian Greene,59,67,NO,,10/23/2018,57d 13h 55m 34s,6246,Lesson,2.18 General Relativity,8/12/2019
+40,40,40,15609,Einstein's Astrophysical Messengers: Gabriela González,27,31,NO,,8/4/2019,8d 5h 35m 43s,18192,Lesson,3.2 Live Session: Gabriela González,8/12/2019
+40,40,40,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/22/2019,68d 2h 58m 25s,12114,Lesson,3.7 Signatures of Life,8/12/2019
+40,40,40,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/16/2019,2/11/2019,4d 23h 57m 51s,13826,Lesson,1.4 Thoughts on Life,8/12/2019
+40,40,40,3722,Resources,0,3,NO,,,,,,,8/12/2019
+40,40,40,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/12/2019
+40,40,40,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/12/2019
+30,30,30,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,12/4/2018
+30,30,30,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,12/4/2018
+30,30,30,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,12/4/2018
+30,30,30,2301,Beyond the Cloud of Everyday Experience: Brian Greene,2,67,NO,,10/25/2018,3m 24s,2739,Quiz,1.6 Essentials of Special Relativity,12/4/2018
+30,30,30,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,12/4/2018
+30,30,30,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,12/4/2018
+30,30,30,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,12/4/2018
+30,30,30,3722,Resources,0,3,NO,,,,,,,12/4/2018
+30,30,30,3967,Special Relativity – World Science U,0,359,NO,,9/28/2018,,632,Lesson,1.1 Scale Video,12/4/2018
+30,30,30,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,12/4/2018
+30,30,30,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,12/4/2018
+163,163,163,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,7/12/2019,,5138,Lesson,1.4 The Symmetry Principle,7/18/2019
+163,163,163,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,7/12/2019,,6328,Lesson,3.1 Module Overview,7/18/2019
+163,163,163,11236,Life as the Next Frontier in Physics: Sara Walker,1,45,NO,,7/12/2019,5d 16h 48m,14219,Lesson,3.3 Other Signatures?,7/18/2019
+163,163,163,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,1,5,NO,,7/13/2019,7m 34s,12089,Lesson,1.2 What is Life?,7/18/2019
+41,41,41,1613,A Beautiful Universe: Cumrun Vafa,48,60,NO,,12/18/2018,20d 22h 22m 43s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,8/6/2019
+41,41,41,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/6/2019
+41,41,41,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/6/2019
+41,41,41,2301,Beyond the Cloud of Everyday Experience: Brian Greene,51,67,NO,,11/9/2018,23d 3h 6m 15s,2619,Lesson,3.22 String Theory,8/6/2019
+41,41,41,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/6/2019
+41,41,41,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/18/2019,22d 1h 30m 12s,15520,Lesson,Live Session 1: Sara Walker,8/6/2019
+41,41,41,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/4/2019,2/18/2019,13d 20h 38m 24s,14171,Lesson,1.3 Sara Walker QA,8/6/2019
+41,41,41,3722,Resources,0,3,NO,,,,,,,8/6/2019
+41,41,41,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/6/2019
+41,41,41,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/6/2019
+76,76,76,1613,A Beautiful Universe: Cumrun Vafa,7,60,NO,,10/2/2018,44d 2h 43m 6s,2263,Quiz,1.14 Continuity,4/16/2019
+76,76,76,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/16/2019
+76,76,76,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/16/2019
+76,76,76,2301,Beyond the Cloud of Everyday Experience: Brian Greene,10,67,NO,,10/3/2018,14d 23h 40m 50s,6304,Lesson,2.10 Testing Einstein,4/16/2019
+76,76,76,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/16/2019
+76,76,76,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/16/2019
+76,76,76,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,4/16/2019
+76,76,76,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,2,5,NO,,2/15/2019,7s,12089,Lesson,1.2 What is Life?,4/16/2019
+76,76,76,3722,Resources,1,3,NO,,10/1/2018,41s,3902,Lesson,World Science Scholars Program Orientation,4/16/2019
+76,76,76,19780,Resources '19,0,4,NO,,,,,,,4/16/2019
+76,76,76,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/16/2019
+76,76,76,16503,The Test Course,0,21,NO,,,,,,,4/16/2019
+76,76,76,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/16/2019
+42,42,42,1613,A Beautiful Universe: Cumrun Vafa,18,60,NO,,12/26/2018,2d 23h 20m,7326,Lesson,2.3 Geometry,7/24/2019
+42,42,42,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/24/2019
+42,42,42,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/24/2019
+42,42,42,2301,Beyond the Cloud of Everyday Experience: Brian Greene,51,67,NO,,11/4/2018,53d 14h 45m 59s,11950,Lesson,Live Session with Professor Brian Greene,7/24/2019
+42,42,42,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/24/2019
+42,42,42,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/24/2019
+42,42,42,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/24/2019
+42,42,42,3722,Resources,0,3,NO,,,,,,,7/24/2019
+42,42,42,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/24/2019
+42,42,42,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/24/2019
+43,43,43,1613,A Beautiful Universe: Cumrun Vafa,48,60,NO,,12/15/2018,24d 11h 26m 54s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,7/31/2019
+43,43,43,15362,A Galactic Mystery: Justin Khoury,25,28,NO,,7/20/2019,11d 8h 13m 34s,18245,Lesson,3.3 End of Course Survey,7/31/2019
+43,43,43,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/31/2019
+43,43,43,2301,Beyond the Cloud of Everyday Experience: Brian Greene,58,67,NO,,11/5/2018,39d 3h 16m 6s,2619,Lesson,3.22 String Theory,7/31/2019
+43,43,43,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/31/2019
+43,43,43,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/30/2019,1d 11h 4m 6s,12114,Lesson,3.7 Signatures of Life,7/31/2019
+43,43,43,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,3,5,NO,,2/18/2019,15m 22s,14171,Lesson,1.3 Sara Walker QA,7/31/2019
+43,43,43,3722,Resources,0,3,NO,,,,,,,7/31/2019
+43,43,43,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/31/2019
+43,43,43,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/31/2019
+44,44,44,1613,A Beautiful Universe: Cumrun Vafa,56,60,NO,,12/25/2018,14d 19h 25m 54s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,4/12/2019
+44,44,44,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/12/2019
+44,44,44,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/12/2019
+44,44,44,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,11/25/2018,10/24/2018,31d 18h 17m 25s,3082,Quiz,3.10 Mathematical Dictionary,4/12/2019
+44,44,44,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/12/2019
+44,44,44,11236,Life as the Next Frontier in Physics: Sara Walker,40,45,NO,,3/21/2019,21d 22h 56m 19s,15850,Lesson,What Is Life? Project,4/12/2019
+44,44,44,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/10/2019,2/10/2019,16m 31s,13826,Lesson,1.4 Thoughts on Life,4/12/2019
+44,44,44,3722,Resources,3,3,YES,9/28/2018,9/28/2018,31m 58s,3789,Lesson,Meet the Scholars,4/12/2019
+44,44,44,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/12/2019
+44,44,44,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/12/2019
+45,45,45,1613,A Beautiful Universe: Cumrun Vafa,17,60,NO,,12/15/2018,20d 9h 57m 47s,2346,Lesson,1.25 Summary of Mathematical Concepts,3/7/2019
+45,45,45,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,3/7/2019
+45,45,45,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,3/7/2019
+45,45,45,2301,Beyond the Cloud of Everyday Experience: Brian Greene,49,67,NO,,10/23/2018,21d 6h 15m 33s,4713,Quiz,3.18 String Theory,3/7/2019
+45,45,45,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,3/7/2019
+45,45,45,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,3/7/2019
+45,45,45,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/25/2019,2/25/2019,1h 38m 2s,13826,Lesson,1.4 Thoughts on Life,3/7/2019
+45,45,45,3722,Resources,0,3,NO,,,,,,,3/7/2019
+45,45,45,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,3/7/2019
+45,45,45,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,3/7/2019
+46,46,46,1613,A Beautiful Universe: Cumrun Vafa,50,60,NO,,12/28/2018,11d 23h 49m 33s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,4/26/2019
+46,46,46,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/26/2019
+46,46,46,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/26/2019
+46,46,46,2301,Beyond the Cloud of Everyday Experience: Brian Greene,25,67,NO,,10/22/2018,63d 2h 51m 1s,2557,Lesson,2.4 Newtonian Gravity,4/26/2019
+46,46,46,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/26/2019
+46,46,46,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,3/28/2019,,15850,Lesson,What Is Life? Project,4/26/2019
+46,46,46,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/21/2019,2/21/2019,53m 19s,13826,Lesson,1.4 Thoughts on Life,4/26/2019
+46,46,46,3722,Resources,0,3,NO,,,,,,,4/26/2019
+46,46,46,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/26/2019
+46,46,46,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/26/2019
+136,136,136,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,21,66,NO,,7/26/2019,2d 23h 48m 6s,4713,Quiz,3.18 String Theory,7/26/2019
+136,136,136,19780,Resources '19,0,4,NO,,7/26/2019,,19788,Lesson,Meet the 2019 Scholars,7/26/2019
+137,137,137,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,
+137,137,137,19780,Resources '19,0,4,NO,,,,,,,
+138,138,138,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,1,66,NO,,7/16/2019,4s,18960,Lesson,1.8 Simultaneity,8/8/2019
+138,138,138,19780,Resources '19,2,4,NO,,7/3/2019,12d 6h 6m 40s,19787,Lesson,Meet the 2018 Scholars,8/8/2019
+47,47,47,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,1/13/2019,12/10/2018,34d 10h 51m 8s,5125,Lesson,1.6 Puzzle: Designing a Highway System – Idea Generation,6/13/2019
+47,47,47,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,6/13/2019
+47,47,47,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,6/13/2019
+47,47,47,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,11/19/2018,11/9/2018,10d 3h 54m 24s,2619,Lesson,3.22 String Theory,6/13/2019
+47,47,47,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,6/13/2019
+47,47,47,11236,Life as the Next Frontier in Physics: Sara Walker,11,45,NO,,3/10/2019,14d 11h 55m 58s,14097,Lesson,1.11 Compare Examples,6/13/2019
+47,47,47,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/3/2019,2/25/2019,5d 8h 10m 18s,13826,Lesson,1.4 Thoughts on Life,6/13/2019
+47,47,47,3722,Resources,3,3,YES,11/19/2018,11/14/2018,5d 11h 5m 42s,3789,Lesson,Meet the Scholars,6/13/2019
+47,47,47,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,6/13/2019
+47,47,47,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,6/13/2019
+48,48,48,1613,A Beautiful Universe: Cumrun Vafa,55,60,NO,,12/27/2018,8d 6h 57m 22s,2469,Lesson,3.12 Black Hole Thermodynamics,6/13/2019
+48,48,48,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,6/13/2019
+48,48,48,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,6/13/2019
+48,48,48,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,12/27/2018,10/24/2018,63d 19h 30m 3s,7865,Lesson,3.19 Quantum Mechanics  String Theory,6/13/2019
+48,48,48,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,6/13/2019
+48,48,48,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/8/2019,3/21/2019,18d 8h 22m 46s,15520,Lesson,Live Session 1: Sara Walker,6/13/2019
+48,48,48,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/18/2019,2/18/2019,44s,13826,Lesson,1.4 Thoughts on Life,6/13/2019
+48,48,48,3722,Resources,3,3,YES,9/29/2018,9/29/2018,2m 57s,3789,Lesson,Meet the Scholars,6/13/2019
+48,48,48,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,6/13/2019
+48,48,48,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,6/13/2019
+139,139,139,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,49,66,NO,,7/17/2019,25d 21h 11m 24s,19026,Lesson,3.20 Quantum Mechanics Projects,8/8/2019
+139,139,139,19780,Resources '19,0,4,NO,,7/15/2019,,19798,Lesson,2019 Program Orientation Live Session,8/8/2019
+140,140,140,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,
+140,140,140,19780,Resources '19,0,4,NO,,,,,,,
+49,49,49,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,6/21/2019,12/13/2018,189d 22h 26m 7s,14083,Lesson,Live Session: Cumrun Vafa,8/8/2019
+49,49,49,15362,A Galactic Mystery: Justin Khoury,25,28,NO,,5/24/2019,3d 6h 27s,18097,Lesson,3.1 Going Deeper,8/8/2019
+49,49,49,18818,"Accelerate, Collide, Detect: Barry Barish",28,31,NO,,7/16/2019,29d 4h 55m 3s,18853,Lesson,3.1 Going Deeper,8/8/2019
+49,49,49,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,6/21/2019,10/30/2018,234d 1h 5m 4s,11950,Lesson,Live Session with Professor Brian Greene,8/8/2019
+49,49,49,15609,Einstein's Astrophysical Messengers: Gabriela González,28,31,NO,,6/21/2019,2d 1h 55m 31s,15626,Lesson,3.1 Going Deeper,8/8/2019
+49,49,49,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,5/24/2019,3/5/2019,80d 49m 32s,17610,Lesson,Live Session 2:  Sara Walker,8/8/2019
+49,49,49,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/4/2019,2/11/2019,20d 18h 24m 48s,13826,Lesson,1.4 Thoughts on Life,8/8/2019
+49,49,49,3722,Resources,0,3,NO,,,,,,,8/8/2019
+49,49,49,19118,The Early Universe: Matias Zaldarriaga,1,27,NO,,8/14/2019,23m 18s,19124,Lesson,1.1 Module Overview,8/8/2019
+49,49,49,18395,The Universe's Hierarchy: George F.R. Ellis,29,32,NO,,7/2/2019,13d 21h 23m 3s,18800,Lesson,3.1 Going Deeper,8/8/2019
+50,50,50,1613,A Beautiful Universe: Cumrun Vafa,16,60,NO,,1/2/2019,28d 23h 23m 46s,4751,Lesson,1.23 Mathematical Concepts in Your Life,4/3/2019
+50,50,50,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/3/2019
+50,50,50,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/3/2019
+50,50,50,2301,Beyond the Cloud of Everyday Experience: Brian Greene,49,67,NO,,10/29/2018,16d 5h 27m 25s,2619,Lesson,3.22 String Theory,4/3/2019
+50,50,50,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/3/2019
+50,50,50,11236,Life as the Next Frontier in Physics: Sara Walker,5,45,NO,,3/7/2019,27d 7h 50m 17s,14097,Lesson,1.11 Compare Examples,4/3/2019
+50,50,50,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,3,5,NO,,2/23/2019,2m 25s,13826,Lesson,1.4 Thoughts on Life,4/3/2019
+50,50,50,3722,Resources,0,3,NO,,,,,,,4/3/2019
+50,50,50,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/3/2019
+50,50,50,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/3/2019
+51,51,51,1613,A Beautiful Universe: Cumrun Vafa,39,60,NO,,12/17/2018,26d 15h 33m 14s,2463,Lesson,3.6 Extra Dimensions,8/8/2019
+51,51,51,15362,A Galactic Mystery: Justin Khoury,10,28,NO,,5/4/2019,13d 23h 32m 43s,17501,Lesson,1.3 Justin Khoury QA,8/8/2019
+51,51,51,18818,"Accelerate, Collide, Detect: Barry Barish",24,31,NO,,8/4/2019,2d 5h 5m 16s,18853,Lesson,3.1 Going Deeper,8/8/2019
+51,51,51,2301,Beyond the Cloud of Everyday Experience: Brian Greene,42,67,NO,,11/8/2018,24d 2h 17m 21s,2596,Lesson,3.9 Particles and Waves,8/8/2019
+51,51,51,15609,Einstein's Astrophysical Messengers: Gabriela González,1,31,NO,,6/20/2019,6m 39s,15620,Lesson,2.1 Meet Gabriela González,8/8/2019
+51,51,51,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/4/2019,75d 2h 8m 24s,15850,Lesson,What Is Life? Project,8/8/2019
+51,51,51,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/20/2019,2/18/2019,2d 1h 4m 4s,14171,Lesson,1.3 Sara Walker QA,8/8/2019
+51,51,51,3722,Resources,0,3,NO,,,,,,,8/8/2019
+51,51,51,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/8/2019
+51,51,51,18395,The Universe's Hierarchy: George F.R. Ellis,1,32,NO,,8/9/2019,1m 3s,18404,Lesson,1.1 Module Overview,8/8/2019
+80,80,80,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,10/11/2018
+80,80,80,3967,Special Relativity – World Science U,1,359,NO,,10/11/2018,48s,723,Lesson,2.4 Speed Discussion,10/11/2018
+79,79,79,1613,A Beautiful Universe: Cumrun Vafa,11,60,NO,,10/9/2018,31d 2h 49m 29s,4575,Lesson,2.17 Partition Function and Black Hole Questions,7/12/2019
+79,79,79,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/12/2019
+79,79,79,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/12/2019
+79,79,79,2301,Beyond the Cloud of Everyday Experience: Brian Greene,8,67,NO,,7/12/2019,2h 46m 57s,6262,Lesson,"2.9 Conundrum, Verification and Evidence",7/12/2019
+79,79,79,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,5,66,NO,,7/12/2019,1h 8m 44s,18970,Lesson,1.16 Special Relativity,7/12/2019
+79,79,79,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/12/2019
+79,79,79,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/12/2019
+79,79,79,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/12/2019
+79,79,79,3722,Resources,0,3,NO,,,,,,,7/12/2019
+79,79,79,19780,Resources '19,0,4,NO,,,,,,,7/12/2019
+79,79,79,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/12/2019
+79,79,79,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/12/2019
+94,94,94,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,4/16/2019
+94,94,94,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/16/2019
+94,94,94,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/16/2019
+94,94,94,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,4/16/2019
+94,94,94,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/16/2019
+94,94,94,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/16/2019
+94,94,94,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,4/16/2019
+94,94,94,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,4/16/2019
+94,94,94,3722,Resources,0,3,NO,,,,,,,4/16/2019
+94,94,94,19780,Resources '19,0,4,NO,,,,,,,4/16/2019
+94,94,94,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/16/2019
+94,94,94,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/16/2019
+95,95,95,1613,A Beautiful Universe: Cumrun Vafa,1,60,NO,,11/8/2018,25d 2h 1m 14s,9743,Lesson,3.4 Life in Different Numbers of Dimensions,4/16/2019
+95,95,95,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/16/2019
+95,95,95,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/16/2019
+95,95,95,2301,Beyond the Cloud of Everyday Experience: Brian Greene,4,67,NO,,12/3/2018,3d 6h 53m 36s,6298,Lesson,2.7 Inertial and Gravitational Mass,4/16/2019
+95,95,95,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/16/2019
+95,95,95,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/16/2019
+95,95,95,11236,Life as the Next Frontier in Physics: Sara Walker,40,45,NO,,3/27/2019,21m 36s,14625,Quiz,Cellular Automata Challenge,4/16/2019
+95,95,95,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,4/16/2019
+95,95,95,3722,Resources,0,3,NO,,12/6/2018,,3902,Lesson,World Science Scholars Program Orientation,4/16/2019
+95,95,95,19780,Resources '19,0,4,NO,,,,,,,4/16/2019
+95,95,95,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/16/2019
+95,95,95,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/16/2019
+96,96,96,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,12/5/2018,,1799,Lesson,1.1 Course Overview,7/31/2019
+96,96,96,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/31/2019
+96,96,96,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/31/2019
+96,96,96,2301,Beyond the Cloud of Everyday Experience: Brian Greene,6,67,NO,,12/5/2018,23h 38m 4s,5523,Lesson,1.8 Simultaneity,7/31/2019
+96,96,96,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/31/2019
+96,96,96,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/31/2019
+96,96,96,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/31/2019
+96,96,96,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/31/2019
+96,96,96,3722,Resources,0,3,NO,,,,,,,7/31/2019
+96,96,96,19780,Resources '19,0,4,NO,,,,,,,7/31/2019
+96,96,96,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/31/2019
+96,96,96,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/31/2019
+97,97,97,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,12/3/2018,,2346,Lesson,1.25 Summary of Mathematical Concepts,7/26/2019
+97,97,97,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,4/15/2019,,15568,Lesson,1.1 The Case for Dark Matter,7/26/2019
+97,97,97,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/26/2019
+97,97,97,2301,Beyond the Cloud of Everyday Experience: Brian Greene,8,67,NO,,11/7/2018,25d 17h 59m 4s,6262,Lesson,"2.9 Conundrum, Verification and Evidence",7/26/2019
+97,97,97,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/26/2019
+97,97,97,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/26/2019
+97,97,97,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/26/2019
+97,97,97,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/26/2019
+97,97,97,3722,Resources,0,3,NO,,,,,,,7/26/2019
+97,97,97,19780,Resources '19,0,4,NO,,,,,,,7/26/2019
+97,97,97,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/26/2019
+97,97,97,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/26/2019
+86,86,86,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,4/16/2019
+86,86,86,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/16/2019
+86,86,86,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/16/2019
+86,86,86,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,4/16/2019
+86,86,86,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/16/2019
+86,86,86,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/16/2019
+86,86,86,11236,Life as the Next Frontier in Physics: Sara Walker,3,45,NO,,,,14135,Lesson,2.9 Bridge Challenge,4/16/2019
+86,86,86,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/1/2019,3/1/2019,28s,13826,Lesson,1.4 Thoughts on Life,4/16/2019
+86,86,86,3722,Resources,0,3,NO,,,,,,,4/16/2019
+86,86,86,19780,Resources '19,0,4,NO,,,,,,,4/16/2019
+86,86,86,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/16/2019
+86,86,86,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/16/2019
+87,87,87,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,11/8/2018
+87,87,87,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,11/8/2018
+87,87,87,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,11/8/2018
+87,87,87,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,11/8/2018
+87,87,87,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,11/8/2018
+87,87,87,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,11/8/2018
+87,87,87,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,11/8/2018
+87,87,87,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,11/8/2018
+87,87,87,3722,Resources,0,3,NO,,,,,,,11/8/2018
+87,87,87,19780,Resources '19,0,4,NO,,,,,,,11/8/2018
+87,87,87,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,11/8/2018
+87,87,87,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,11/8/2018
+88,88,88,1613,A Beautiful Universe: Cumrun Vafa,1,60,NO,,11/8/2018,12m 46s,4721,Lesson,1.12 Discussing Puzzles 1-3,4/16/2019
+88,88,88,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/16/2019
+88,88,88,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/16/2019
+88,88,88,2301,Beyond the Cloud of Everyday Experience: Brian Greene,1,67,NO,,11/6/2018,5m 10s,5167,Lesson,1.2 What Would You Like to Learn?,4/16/2019
+88,88,88,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/16/2019
+88,88,88,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/16/2019
+88,88,88,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,4/16/2019
+88,88,88,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,4/16/2019
+88,88,88,3722,Resources,0,3,NO,,,,,,,4/16/2019
+88,88,88,19780,Resources '19,0,4,NO,,,,,,,4/16/2019
+88,88,88,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/16/2019
+88,88,88,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/16/2019
+89,89,89,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,12/22/2018,,1799,Lesson,1.1 Course Overview,4/17/2019
+89,89,89,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/17/2019
+89,89,89,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/17/2019
+89,89,89,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,4/17/2019,,6187,Lesson,2.1 Module Overview,4/17/2019
+89,89,89,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/17/2019
+89,89,89,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/17/2019
+89,89,89,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,4/17/2019,,15520,Lesson,Live Session 1: Sara Walker,4/17/2019
+89,89,89,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,4/17/2019
+89,89,89,3722,Resources,0,3,NO,,,,,,,4/17/2019
+89,89,89,19780,Resources '19,0,4,NO,,,,,,,4/17/2019
+89,89,89,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/17/2019
+89,89,89,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/17/2019
+90,90,90,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,6/25/2019
+90,90,90,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,6/25/2019
+90,90,90,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,6/25/2019
+90,90,90,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,6/25/2019
+90,90,90,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,6/25/2019
+90,90,90,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,6/25/2019
+90,90,90,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,6/25/2019
+90,90,90,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,6/25/2019
+90,90,90,3722,Resources,0,3,NO,,,,,,,6/25/2019
+90,90,90,19780,Resources '19,0,4,NO,,,,,,,6/25/2019
+90,90,90,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,6/25/2019
+90,90,90,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,6/25/2019
+91,91,91,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,1/9/2019,,1799,Lesson,1.1 Course Overview,7/9/2019
+91,91,91,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/9/2019
+91,91,91,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/9/2019
+91,91,91,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,7/9/2019
+91,91,91,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/9/2019
+91,91,91,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/9/2019
+91,91,91,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/9/2019
+91,91,91,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/9/2019
+91,91,91,3722,Resources,0,3,NO,,,,,,,7/9/2019
+91,91,91,19780,Resources '19,0,4,NO,,,,,,,7/9/2019
+91,91,91,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/9/2019
+91,91,91,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/9/2019
+92,92,92,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,12/3/2018,,1560,Lesson,1.3 Puzzle: Mixing Paint,5/29/2019
+92,92,92,15362,A Galactic Mystery: Justin Khoury,4,28,NO,,,,18097,Lesson,3.1 Going Deeper,5/29/2019
+92,92,92,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,5/29/2019
+92,92,92,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,5/29/2019
+92,92,92,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,5/29/2019
+92,92,92,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,5/29/2019
+92,92,92,11236,Life as the Next Frontier in Physics: Sara Walker,6,45,NO,,3/1/2019,2d 16h 3m 19s,11236,Course,Life as the Next Frontier in Physics: Sara Walker,5/29/2019
+92,92,92,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/1/2019,3/1/2019,21s,13826,Lesson,1.4 Thoughts on Life,5/29/2019
+92,92,92,3722,Resources,0,3,NO,,,,,,,5/29/2019
+92,92,92,19780,Resources '19,0,4,NO,,,,,,,5/29/2019
+92,92,92,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,5/29/2019
+92,92,92,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,5/29/2019
+93,93,93,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,11/8/2018,,2460,Lesson,3.5 Three Stories Meet,4/16/2019
+93,93,93,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/16/2019
+93,93,93,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/16/2019
+93,93,93,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,4/16/2019
+93,93,93,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/16/2019
+93,93,93,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/16/2019
+93,93,93,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,4/16/2019
+93,93,93,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,4/16/2019
+93,93,93,3722,Resources,0,3,NO,,,,,,,4/16/2019
+93,93,93,19780,Resources '19,0,4,NO,,,,,,,4/16/2019
+93,93,93,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/16/2019
+93,93,93,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/16/2019
+141,141,141,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,31,66,NO,,7/27/2019,9d 3h 50m 20s,19000,Lesson,2.20 General Relativity,7/28/2019
+141,141,141,19780,Resources '19,0,4,NO,,7/21/2019,,19798,Lesson,2019 Program Orientation Live Session,7/28/2019
+52,52,52,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,4/9/2019,1/15/2019,83d 17h 53m 49s,14083,Lesson,Live Session: Cumrun Vafa,4/9/2019
+52,52,52,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/9/2019
+52,52,52,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/9/2019
+52,52,52,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,4/9/2019,11/9/2018,150d 17h 55m 11s,2619,Lesson,3.22 String Theory,4/9/2019
+52,52,52,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/9/2019
+52,52,52,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/9/2019,4/9/2019,9m 6s,15520,Lesson,Live Session 1: Sara Walker,4/9/2019
+52,52,52,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,4/9/2019,4/9/2019,40s,13826,Lesson,1.4 Thoughts on Life,4/9/2019
+52,52,52,3722,Resources,3,3,YES,4/9/2019,4/9/2019,10s,3789,Lesson,Meet the Scholars,4/9/2019
+52,52,52,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/9/2019
+52,52,52,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/9/2019
+142,142,142,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,49,66,NO,,7/15/2019,29d 19h 6m 28s,2739,Quiz,1.6 Essentials of Special Relativity,8/15/2019
+142,142,142,19780,Resources '19,2,4,NO,,7/15/2019,5m 6s,19798,Lesson,2019 Program Orientation Live Session,8/15/2019
+143,143,143,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,9,66,NO,,7/22/2019,18d 17h 56m 8s,2770,Quiz,1.10 Using the Gamma Factor,8/13/2019
+143,143,143,19780,Resources '19,0,4,NO,,7/5/2019,,19787,Lesson,Meet the 2018 Scholars,8/13/2019
+144,144,144,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,1,66,NO,,7/17/2019,2m 12s,18953,Lesson,1.2 What Would You Like to Learn?,7/17/2019
+144,144,144,19780,Resources '19,4,4,YES,7/9/2019,7/9/2019,5m 20s,19788,Lesson,Meet the 2019 Scholars,7/17/2019
+169,169,169,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,
+169,169,169,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,
+169,169,169,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,
+169,169,169,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,
+169,169,169,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,
+169,169,169,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,
+169,169,169,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,
+169,169,169,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,
+53,53,53,1613,A Beautiful Universe: Cumrun Vafa,50,60,NO,,12/16/2018,27d 19h 9m 43s,2465,Lesson,3.10 Cumrun Vafa,8/5/2019
+53,53,53,15362,A Galactic Mystery: Justin Khoury,7,28,NO,,6/27/2019,2h 26m 32s,15756,Lesson,1.8 Modified Newtonian Dynamics,8/5/2019
+53,53,53,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+53,53,53,2301,Beyond the Cloud of Everyday Experience: Brian Greene,59,67,NO,,11/9/2018,2d 4h 20m 36s,2619,Lesson,3.22 String Theory,8/5/2019
+53,53,53,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+53,53,53,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/7/2019,24d 14h 30m 29s,12114,Lesson,3.7 Signatures of Life,8/5/2019
+53,53,53,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/8/2019,2/8/2019,11m 20s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+53,53,53,3722,Resources,0,3,NO,,,,,,,8/5/2019
+53,53,53,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+53,53,53,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+109,109,109,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,3/29/2019
+109,109,109,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,3/29/2019
+109,109,109,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,3/29/2019
+109,109,109,11236,Life as the Next Frontier in Physics: Sara Walker,1,45,NO,,3/15/2019,,14577,Lesson,1.6 Theory of Life,3/29/2019
+109,109,109,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/22/2019,2/22/2019,2m 51s,13826,Lesson,1.4 Thoughts on Life,3/29/2019
+54,54,54,1613,A Beautiful Universe: Cumrun Vafa,42,60,NO,,12/23/2018,9m 59s,2469,Lesson,3.12 Black Hole Thermodynamics,8/5/2019
+54,54,54,15362,A Galactic Mystery: Justin Khoury,28,28,YES,6/13/2019,6/13/2019,5m 37s,18245,Lesson,3.3 End of Course Survey,8/5/2019
+54,54,54,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+54,54,54,2301,Beyond the Cloud of Everyday Experience: Brian Greene,53,67,NO,,10/30/2018,53d 21h 18m 32s,6250,Lesson,3.21 Quantum Mechanics Projects,8/5/2019
+54,54,54,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+54,54,54,11236,Life as the Next Frontier in Physics: Sara Walker,41,45,NO,,3/15/2019,23d 21h 42s,15520,Lesson,Live Session 1: Sara Walker,8/5/2019
+54,54,54,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/20/2019,2/20/2019,3m 36s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+54,54,54,3722,Resources,0,3,NO,,9/28/2018,,3902,Lesson,World Science Scholars Program Orientation,8/5/2019
+54,54,54,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+54,54,54,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+55,55,55,1613,A Beautiful Universe: Cumrun Vafa,50,60,NO,,12/7/2018,32d 16h 50m 1s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,8/10/2019
+55,55,55,15362,A Galactic Mystery: Justin Khoury,28,28,YES,4/18/2019,4/18/2019,1h 11m 56s,17503,Lesson,1.7 Justin Khoury QA,8/10/2019
+55,55,55,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,7/22/2019,,18832,Lesson,2.1 Particle Physics and Particle Accelerators,8/10/2019
+55,55,55,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,12/18/2018,10/22/2018,56d 17h 1m 31s,2301,Course,Beyond the Cloud of Everyday Experience: Brian Greene,8/10/2019
+55,55,55,15609,Einstein's Astrophysical Messengers: Gabriela González,27,31,NO,,7/17/2019,3d 3h 41m 23s,18578,Lesson,3.3 End of Course Survey,8/10/2019
+55,55,55,11236,Life as the Next Frontier in Physics: Sara Walker,43,45,NO,,3/4/2019,42d 15h 30m 21s,17610,Lesson,Live Session 2:  Sara Walker,8/10/2019
+55,55,55,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/22/2019,2/22/2019,10m 19s,13826,Lesson,1.4 Thoughts on Life,8/10/2019
+55,55,55,3722,Resources,0,3,NO,,,,,,,8/10/2019
+55,55,55,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/10/2019
+55,55,55,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/10/2019
+56,56,56,1613,A Beautiful Universe: Cumrun Vafa,53,60,NO,,12/21/2018,8d 6h 28m 9s,6042,Lesson,2.18 Special Projects: The Partition Function and Black Holes,8/5/2019
+56,56,56,15362,A Galactic Mystery: Justin Khoury,25,28,NO,,5/25/2019,4d 1h 59m 31s,18271,Lesson,2.7 Dark Horses of Dark Matter,8/5/2019
+56,56,56,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+56,56,56,2301,Beyond the Cloud of Everyday Experience: Brian Greene,64,67,NO,,12/17/2018,11d 21h 2m 51s,6203,Lesson,2.20 General Relativity Projects,8/5/2019
+56,56,56,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+56,56,56,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/27/2019,3/26/2019,32d 6h 52m 45s,12111,Lesson,3.5 Signatures of Life,8/5/2019
+56,56,56,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,4/27/2019,2/18/2019,68d 6h 1s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+56,56,56,3722,Resources,0,3,NO,,,,,,,8/5/2019
+56,56,56,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+56,56,56,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+57,57,57,1613,A Beautiful Universe: Cumrun Vafa,42,60,NO,,12/8/2018,30d 17h 29m 55s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,7/27/2019
+57,57,57,15362,A Galactic Mystery: Justin Khoury,26,28,NO,,4/20/2019,52d 11h 2m,18173,Lesson,3.2 Live Session: Justin Khoury,7/27/2019
+57,57,57,18818,"Accelerate, Collide, Detect: Barry Barish",28,31,NO,,7/27/2019,1d 15h 39m 13s,18853,Lesson,3.1 Going Deeper,7/27/2019
+57,57,57,2301,Beyond the Cloud of Everyday Experience: Brian Greene,58,67,NO,,10/27/2018,226d 14h 16m 41s,7865,Lesson,3.19 Quantum Mechanics  String Theory,7/27/2019
+57,57,57,15609,Einstein's Astrophysical Messengers: Gabriela González,26,31,NO,,6/23/2019,6d 21h 37m 30s,15626,Lesson,3.1 Going Deeper,7/27/2019
+57,57,57,11236,Life as the Next Frontier in Physics: Sara Walker,41,45,NO,,3/4/2019,17d 22h 5m 18s,12114,Lesson,3.7 Signatures of Life,7/27/2019
+57,57,57,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/4/2019,2/9/2019,23d 2h 57m 7s,13826,Lesson,1.4 Thoughts on Life,7/27/2019
+57,57,57,3722,Resources,3,3,YES,9/29/2018,9/29/2018,4m 43s,3789,Lesson,Meet the Scholars,7/27/2019
+57,57,57,19118,The Early Universe: Matias Zaldarriaga,24,27,NO,,7/31/2019,1d 15h 26m 34s,19166,Lesson,3.1 Going Deeper,7/27/2019
+57,57,57,18395,The Universe's Hierarchy: George F.R. Ellis,29,32,NO,,7/4/2019,1d 2h 22m,18800,Lesson,3.1 Going Deeper,7/27/2019
+23,23,23,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,3/28/2019
+23,23,23,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,3/28/2019
+23,23,23,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,3/28/2019
+23,23,23,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,10/23/2018,,6328,Lesson,3.1 Module Overview,3/28/2019
+23,23,23,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,3/28/2019
+23,23,23,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,3/28/2019
+23,23,23,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,3/28/2019
+23,23,23,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,2/9/2019,,12093,Lesson,1.1 The Challenge,3/28/2019
+23,23,23,3722,Resources,0,3,NO,,,,,,,3/28/2019
+23,23,23,19780,Resources '19,0,4,NO,,,,,,,3/28/2019
+23,23,23,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,3/28/2019
+23,23,23,16503,The Test Course,0,21,NO,,,,,,,3/28/2019
+23,23,23,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,3/28/2019
+130,130,130,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,
+130,130,130,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,
+130,130,130,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,
+130,130,130,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,
+130,130,130,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,
+130,130,130,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,
+130,130,130,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,
+130,130,130,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,
+130,130,130,3722,Resources,0,3,NO,,,,,,,
+130,130,130,19780,Resources '19,0,4,NO,,,,,,,
+130,130,130,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,
+130,130,130,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,
+145,145,145,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,48,66,NO,,7/29/2019,4d 5h 44m 59s,20410,Lesson,4.1 Going Deeper,8/2/2019
+145,145,145,19780,Resources '19,4,4,YES,8/2/2019,7/2/2019,31d 8h 11m 32s,19788,Lesson,Meet the 2019 Scholars,8/2/2019
+146,146,146,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/9/2019
+146,146,146,19780,Resources '19,0,4,NO,,,,,,,7/9/2019
+20,20,20,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,8/13/2018
+20,20,20,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/13/2018
+20,20,20,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/13/2018
+20,20,20,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,8/13/2018
+20,20,20,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/13/2018
+20,20,20,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/13/2018
+20,20,20,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,8/13/2018
+20,20,20,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/13/2018
+20,20,20,3722,Resources,0,3,NO,,,,,,,8/13/2018
+20,20,20,19780,Resources '19,0,4,NO,,,,,,,8/13/2018
+20,20,20,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/13/2018
+20,20,20,16503,The Test Course,0,21,NO,,,,,,,8/13/2018
+20,20,20,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/13/2018
+58,58,58,1613,A Beautiful Universe: Cumrun Vafa,51,60,NO,,1/2/2019,28m 44s,2469,Lesson,3.12 Black Hole Thermodynamics,8/11/2019
+58,58,58,15362,A Galactic Mystery: Justin Khoury,26,28,NO,,8/11/2019,12m 6s,18173,Lesson,3.2 Live Session: Justin Khoury,8/11/2019
+58,58,58,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/11/2019
+58,58,58,2301,Beyond the Cloud of Everyday Experience: Brian Greene,61,67,NO,,11/10/2018,53d 9h 54m 53s,4714,Lesson,3.18 String Theory,8/11/2019
+58,58,58,15609,Einstein's Astrophysical Messengers: Gabriela González,16,31,NO,,8/11/2019,15m 7s,18201,Lesson,2.9 Evidence,8/11/2019
+58,58,58,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/15/2019,4/15/2019,3h 28m 32s,15520,Lesson,Live Session 1: Sara Walker,8/11/2019
+58,58,58,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/26/2019,2/26/2019,3h 19m 45s,13826,Lesson,1.4 Thoughts on Life,8/11/2019
+58,58,58,3722,Resources,0,3,NO,,,,,,,8/11/2019
+58,58,58,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/11/2019
+58,58,58,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/11/2019
+126,126,126,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,6/3/2019,,15568,Lesson,1.1 The Case for Dark Matter,6/4/2019
+126,126,126,3967,Special Relativity – World Science U,0,359,NO,,6/3/2019,,632,Lesson,1.1 Scale Video,6/4/2019
+115,115,115,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,3/6/2019,,2465,Lesson,3.10 Cumrun Vafa,8/13/2019
+115,115,115,15362,A Galactic Mystery: Justin Khoury,9,28,NO,,4/15/2019,62d 21h 42m 17s,17501,Lesson,1.3 Justin Khoury QA,8/13/2019
+115,115,115,18818,"Accelerate, Collide, Detect: Barry Barish",1,31,NO,,,,18834,Lesson,2.3 Particle Energy Limitations,8/13/2019
+115,115,115,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,8/13/2019
+115,115,115,15609,Einstein's Astrophysical Messengers: Gabriela González,25,31,NO,,6/17/2019,45m 29s,15626,Lesson,3.1 Going Deeper,8/13/2019
+115,115,115,11236,Life as the Next Frontier in Physics: Sara Walker,26,45,NO,,3/4/2019,118d 18h 53m 46s,14625,Quiz,Cellular Automata Challenge,8/13/2019
+115,115,115,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,3/4/2019,3/4/2019,1m 38s,12089,Lesson,1.2 What is Life?,8/13/2019
+115,115,115,3722,Resources,0,3,NO,,,,,,,8/13/2019
+115,115,115,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/13/2019
+115,115,115,16503,The Test Course,0,21,NO,,,,,,,8/13/2019
+115,115,115,18395,The Universe's Hierarchy: George F.R. Ellis,4,32,NO,,7/1/2019,4m 18s,18638,Lesson,2.11 Hierarchy of Structure and Causation,8/13/2019
+25,25,25,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,9/21/2018
+25,25,25,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,9/21/2018
+25,25,25,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,9/21/2018
+25,25,25,2301,Beyond the Cloud of Everyday Experience: Brian Greene,21,67,NO,,9/21/2018,2h 39m 29s,3529,Lesson,2.19 Questions about General Relativity?,9/21/2018
+25,25,25,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,9/21/2018
+25,25,25,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,9/21/2018
+25,25,25,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,9/21/2018
+25,25,25,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,9/21/2018
+25,25,25,3722,Resources,0,3,NO,,,,,,,9/21/2018
+25,25,25,19780,Resources '19,0,4,NO,,,,,,,9/21/2018
+25,25,25,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,9/21/2018
+25,25,25,16503,The Test Course,0,21,NO,,,,,,,9/21/2018
+25,25,25,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,9/21/2018
+59,59,59,1613,A Beautiful Universe: Cumrun Vafa,49,60,NO,,12/31/2018,55d 22h 54m 31s,2469,Lesson,3.12 Black Hole Thermodynamics,8/6/2019
+59,59,59,15362,A Galactic Mystery: Justin Khoury,23,28,NO,,4/21/2019,103d 7h 1m 57s,18245,Lesson,3.3 End of Course Survey,8/6/2019
+59,59,59,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/6/2019
+59,59,59,2301,Beyond the Cloud of Everyday Experience: Brian Greene,53,67,NO,,10/22/2018,69d 20h 3m 38s,11950,Lesson,Live Session with Professor Brian Greene,8/6/2019
+59,59,59,15609,Einstein's Astrophysical Messengers: Gabriela González,5,31,NO,,8/2/2019,3d 23h 41m 31s,18238,Lesson,1.5 Headlines,8/6/2019
+59,59,59,11236,Life as the Next Frontier in Physics: Sara Walker,38,45,NO,,3/2/2019,58d 21h 20m 26s,17610,Lesson,Live Session 2:  Sara Walker,8/6/2019
+59,59,59,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/26/2019,2/25/2019,1d 14m 38s,13826,Lesson,1.4 Thoughts on Life,8/6/2019
+59,59,59,3722,Resources,0,3,NO,,,,,,,8/6/2019
+59,59,59,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/6/2019
+59,59,59,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/6/2019
+147,147,147,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/15/2019
+147,147,147,19780,Resources '19,0,4,NO,,,,,,,7/15/2019
+148,148,148,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/27/2019
+148,148,148,19780,Resources '19,4,4,YES,7/27/2019,7/9/2019,18d 4h 52m 53s,19788,Lesson,Meet the 2019 Scholars,7/27/2019
+156,156,156,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,7/15/2019,,19030,Lesson,4.2 Live Session with Professor Brian Greene,8/11/2019
+156,156,156,19780,Resources '19,0,4,NO,,7/2/2019,,19788,Lesson,Meet the 2019 Scholars,8/11/2019
+149,149,149,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,28,66,NO,,7/21/2019,25d 9h 31m 22s,18996,Lesson,2.17 Inflationary Cosmology,8/15/2019
+149,149,149,19780,Resources '19,0,4,NO,,8/7/2019,,19798,Lesson,2019 Program Orientation Live Session,8/15/2019
+60,60,60,1613,A Beautiful Universe: Cumrun Vafa,5,60,NO,,6/21/2019,3d 11h 50m 4s,1805,Lesson,1.5 Puzzle: Designing a Highway System,6/21/2019
+60,60,60,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,6/21/2019
+60,60,60,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,6/21/2019
+60,60,60,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,6/21/2019,11/10/2018,222d 23h 57m 20s,11950,Lesson,Live Session with Professor Brian Greene,6/21/2019
+60,60,60,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,6/21/2019
+60,60,60,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,4/3/2019,,15850,Lesson,What Is Life? Project,6/21/2019
+60,60,60,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/28/2019,2/26/2019,1d 17h 11m 19s,13826,Lesson,1.4 Thoughts on Life,6/21/2019
+60,60,60,3722,Resources,3,3,YES,11/10/2018,11/10/2018,11h 31m 59s,3789,Lesson,Meet the Scholars,6/21/2019
+60,60,60,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,6/21/2019
+60,60,60,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,6/21/2019
+26,26,26,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,10/12/2018
+26,26,26,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,10/11/2018,,5098,Lesson,1.17 Special Relativity,10/12/2018
+26,26,26,3722,Resources,0,3,NO,,,,,,,10/12/2018
+26,26,26,3967,Special Relativity – World Science U,0,359,NO,,,,,,,10/12/2018
+61,61,61,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,1/20/2019,12/5/2018,45d 23h 22m 13s,2567,Lesson,2.19 Partition Function and Black Holes,8/6/2019
+61,61,61,15362,A Galactic Mystery: Justin Khoury,23,28,NO,,4/21/2019,52d 15h 38m 52s,18080,Lesson,2.2 Dark Horses of Dark Matter,8/6/2019
+61,61,61,18818,"Accelerate, Collide, Detect: Barry Barish",12,31,NO,,7/30/2019,7d 9h 35m 12s,18843,Lesson,2.12 Particle Accelerator Hardware,8/6/2019
+61,61,61,2301,Beyond the Cloud of Everyday Experience: Brian Greene,62,67,NO,,10/26/2018,18d 16h 51m 8s,6250,Lesson,3.21 Quantum Mechanics Projects,8/6/2019
+61,61,61,15609,Einstein's Astrophysical Messengers: Gabriela González,22,31,NO,,7/13/2019,17d 12h 16m 51s,15626,Lesson,3.1 Going Deeper,8/6/2019
+61,61,61,11236,Life as the Next Frontier in Physics: Sara Walker,41,45,NO,,3/4/2019,28d 8h 40m 23s,15520,Lesson,Live Session 1: Sara Walker,8/6/2019
+61,61,61,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/14/2019,2/10/2019,4d 3h 26m 30s,13826,Lesson,1.4 Thoughts on Life,8/6/2019
+61,61,61,3722,Resources,3,3,YES,10/1/2018,10/1/2018,5m 11s,3789,Lesson,Meet the Scholars,8/6/2019
+61,61,61,19118,The Early Universe: Matias Zaldarriaga,2,27,NO,,8/7/2019,4d 5h 14m 22s,19143,Lesson,1.3 Dark Matter,8/6/2019
+61,61,61,18395,The Universe's Hierarchy: George F.R. Ellis,18,32,NO,,7/20/2019,19d 11h 33m 23s,18645,Lesson,2.16 Top-down Effects,8/6/2019
+106,106,106,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,12/19/2018,,1562,Quiz,1.3 Puzzle: Mixing Paint,12/19/2018
+106,106,106,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,12/19/2018
+106,106,106,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,12/19/2018
+106,106,106,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,12/19/2018
+106,106,106,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,12/19/2018
+106,106,106,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,12/19/2018
+106,106,106,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,12/19/2018
+106,106,106,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,12/19/2018
+106,106,106,3722,Resources,0,3,NO,,,,,,,12/19/2018
+106,106,106,19780,Resources '19,0,4,NO,,,,,,,12/19/2018
+106,106,106,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,12/19/2018
+106,106,106,16503,The Test Course,0,21,NO,,,,,,,12/19/2018
+106,106,106,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,12/19/2018
+62,62,62,1613,A Beautiful Universe: Cumrun Vafa,27,60,NO,,12/24/2018,109d 13h 15m 56s,4786,Quiz,2.6 The Math Behind the Partition Function,8/5/2019
+62,62,62,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/5/2019
+62,62,62,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+62,62,62,2301,Beyond the Cloud of Everyday Experience: Brian Greene,62,67,NO,,11/11/2018,48d 8h 49m 31s,4714,Lesson,3.18 String Theory,8/5/2019
+62,62,62,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+62,62,62,11236,Life as the Next Frontier in Physics: Sara Walker,17,45,NO,,3/25/2019,1m 40s,12118,Lesson,2.2 Emergence,8/5/2019
+62,62,62,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/5/2019
+62,62,62,3722,Resources,0,3,NO,,,,,,,8/5/2019
+62,62,62,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+62,62,62,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+63,63,63,1613,A Beautiful Universe: Cumrun Vafa,24,60,NO,,12/8/2018,29d 20h 23m 4s,2530,Lesson,2.13 Black Hole Fundamentals,7/31/2019
+63,63,63,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/31/2019
+63,63,63,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/31/2019
+63,63,63,2301,Beyond the Cloud of Everyday Experience: Brian Greene,18,67,NO,,11/10/2018,40d 3h 8m 24s,2549,Lesson,2.5 General Relativity,7/31/2019
+63,63,63,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/31/2019
+63,63,63,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/31/2019
+63,63,63,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/31/2019
+63,63,63,3722,Resources,0,3,NO,,,,,,,7/31/2019
+63,63,63,19118,The Early Universe: Matias Zaldarriaga,2,27,NO,,7/31/2019,4s,19146,Lesson,1.5 Headlines,7/31/2019
+63,63,63,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/31/2019
+64,64,64,1613,A Beautiful Universe: Cumrun Vafa,55,60,NO,,12/30/2018,1d 10h 37m 58s,2469,Lesson,3.12 Black Hole Thermodynamics,8/5/2019
+64,64,64,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/5/2019
+64,64,64,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+64,64,64,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,12/30/2018,10/22/2018,68d 19h 37m 22s,11950,Lesson,Live Session with Professor Brian Greene,8/5/2019
+64,64,64,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+64,64,64,11236,Life as the Next Frontier in Physics: Sara Walker,20,45,NO,,4/17/2019,5d 1h 19m 10s,14622,Lesson,2.3 Cellular Automata Challenge,8/5/2019
+64,64,64,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/18/2019,2/12/2019,6d 1h 8m 30s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+64,64,64,3722,Resources,0,3,NO,,,,,,,8/5/2019
+64,64,64,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+64,64,64,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+65,65,65,1613,A Beautiful Universe: Cumrun Vafa,39,60,NO,,12/7/2018,37d 7h 41m 31s,2469,Lesson,3.12 Black Hole Thermodynamics,8/5/2019
+65,65,65,15362,A Galactic Mystery: Justin Khoury,17,28,NO,,4/15/2019,76d 2h 48m 6s,18097,Lesson,3.1 Going Deeper,8/5/2019
+65,65,65,18818,"Accelerate, Collide, Detect: Barry Barish",26,31,NO,,7/31/2019,13d 22h 48m 43s,18851,Lesson,2.20 Justifying Particle Physics,8/5/2019
+65,65,65,2301,Beyond the Cloud of Everyday Experience: Brian Greene,45,67,NO,,10/24/2018,21d 7h 48m 56s,2499,Lesson,1.11 Implications for Space,8/5/2019
+65,65,65,15609,Einstein's Astrophysical Messengers: Gabriela González,25,31,NO,,6/18/2019,30d 18h 7m 16s,15626,Lesson,3.1 Going Deeper,8/5/2019
+65,65,65,11236,Life as the Next Frontier in Physics: Sara Walker,34,45,NO,,3/4/2019,27d 23h 28m 41s,12111,Lesson,3.5 Signatures of Life,8/5/2019
+65,65,65,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/19/2019,2/12/2019,6d 18h 36m 22s,14171,Lesson,1.3 Sara Walker QA,8/5/2019
+65,65,65,3722,Resources,0,3,NO,,,,,,,8/5/2019
+65,65,65,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+65,65,65,18395,The Universe's Hierarchy: George F.R. Ellis,20,32,NO,,7/15/2019,15d 7m 48s,18800,Lesson,3.1 Going Deeper,8/5/2019
+66,66,66,1613,A Beautiful Universe: Cumrun Vafa,6,60,NO,,12/26/2018,12d 16h 38m 10s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,7/15/2019
+66,66,66,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/15/2019
+66,66,66,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/15/2019
+66,66,66,2301,Beyond the Cloud of Everyday Experience: Brian Greene,55,67,NO,,10/22/2018,65d 1h 46m 28s,11950,Lesson,Live Session with Professor Brian Greene,7/15/2019
+66,66,66,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/15/2019
+66,66,66,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/15/2019
+66,66,66,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/15/2019
+66,66,66,3722,Resources,0,3,NO,,,,,,,7/15/2019
+66,66,66,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/15/2019
+66,66,66,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/15/2019
+67,67,67,1613,A Beautiful Universe: Cumrun Vafa,56,60,NO,,12/9/2018,186d 16h 27m 30s,14083,Lesson,Live Session: Cumrun Vafa,8/14/2019
+67,67,67,15362,A Galactic Mystery: Justin Khoury,24,28,NO,,4/20/2019,54d 1h 45m 13s,18080,Lesson,2.2 Dark Horses of Dark Matter,8/14/2019
+67,67,67,18818,"Accelerate, Collide, Detect: Barry Barish",27,31,NO,,7/17/2019,9d 6h 52m 37s,18851,Lesson,2.20 Justifying Particle Physics,8/14/2019
+67,67,67,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,6/14/2019,10/22/2018,234d 9h 38m 12s,6203,Lesson,2.20 General Relativity Projects,8/14/2019
+67,67,67,15609,Einstein's Astrophysical Messengers: Gabriela González,27,31,NO,,6/22/2019,12d 5h 36m 13s,18202,Lesson,2.19 Gabriela González QA,8/14/2019
+67,67,67,11236,Life as the Next Frontier in Physics: Sara Walker,42,45,NO,,2/25/2019,50d 2h 3m 9s,15850,Lesson,What Is Life? Project,8/14/2019
+67,67,67,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/13/2019,2/13/2019,11m 37s,13826,Lesson,1.4 Thoughts on Life,8/14/2019
+67,67,67,3722,Resources,0,3,NO,,9/30/2018,,3902,Lesson,World Science Scholars Program Orientation,8/14/2019
+67,67,67,19118,The Early Universe: Matias Zaldarriaga,17,27,NO,,8/10/2019,2d 10h 5m 36s,19161,Lesson,2.12 Hot Big Bang,8/14/2019
+67,67,67,18395,The Universe's Hierarchy: George F.R. Ellis,29,32,NO,,7/1/2019,11d 18h 9m 18s,18800,Lesson,3.1 Going Deeper,8/14/2019
+167,167,167,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,
+167,167,167,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,
+167,167,167,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,
+167,167,167,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,
+167,167,167,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,
+167,167,167,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,
+167,167,167,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,
+167,167,167,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,
+167,167,167,3722,Resources,0,3,NO,,,,,,,
+167,167,167,19780,Resources '19,0,4,NO,,,,,,,
+167,167,167,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,
+167,167,167,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,
+166,166,166,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,8/15/2019
+166,166,166,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/15/2019
+166,166,166,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/15/2019
+166,166,166,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,8/15/2019
+166,166,166,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/15/2019
+166,166,166,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/15/2019
+166,166,166,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,8/15/2019
+166,166,166,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/15/2019
+166,166,166,3722,Resources,0,3,NO,,,,,,,8/15/2019
+166,166,166,19780,Resources '19,0,4,NO,,,,,,,8/15/2019
+166,166,166,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/15/2019
+166,166,166,18395,The Universe's Hierarchy: George F.R. Ellis,1,32,NO,,7/30/2019,30s,18621,Lesson,2.4 Scaling Laws,8/15/2019
+131,131,131,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,8/14/2019
+131,131,131,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/14/2019
+131,131,131,18818,"Accelerate, Collide, Detect: Barry Barish",1,31,NO,,,,18853,Lesson,3.1 Going Deeper,8/14/2019
+131,131,131,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,8/14/2019
+131,131,131,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/14/2019
+131,131,131,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/14/2019
+131,131,131,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,8/14/2019
+131,131,131,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/14/2019
+131,131,131,3722,Resources,0,3,NO,,,,,,,8/14/2019
+131,131,131,19780,Resources '19,0,4,NO,,,,,,,8/14/2019
+131,131,131,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/14/2019
+131,131,131,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/14/2019
+84,84,84,1613,A Beautiful Universe: Cumrun Vafa,23,60,NO,,10/15/2018,46d 9m 2s,4786,Quiz,2.6 The Math Behind the Partition Function,3/11/2019
+84,84,84,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,3/11/2019
+84,84,84,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,3/11/2019
+84,84,84,2301,Beyond the Cloud of Everyday Experience: Brian Greene,15,67,NO,,10/15/2018,31d 22h 11m 57s,6329,Lesson,3.2 What Would You Like to Learn?,3/11/2019
+84,84,84,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,3/11/2019
+84,84,84,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,3/11/2019
+84,84,84,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,3/11/2019
+84,84,84,3722,Resources,0,3,NO,,,,,,,3/11/2019
+84,84,84,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,3/11/2019
+84,84,84,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,3/11/2019
+168,168,168,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,8/1/2019
+168,168,168,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/1/2019
+168,168,168,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/1/2019
+168,168,168,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,8/1/2019
+168,168,168,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/1/2019
+168,168,168,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/1/2019
+168,168,168,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,8/1/2019
+168,168,168,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/1/2019
+168,168,168,3722,Resources,0,3,NO,,,,,,,8/1/2019
+168,168,168,19780,Resources '19,0,4,NO,,,,,,,8/1/2019
+168,168,168,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/1/2019
+168,168,168,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/1/2019
+68,68,68,1613,A Beautiful Universe: Cumrun Vafa,56,60,NO,,12/23/2018,16d 19h 48m 19s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,4/10/2019
+68,68,68,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,4/10/2019
+68,68,68,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/10/2019
+68,68,68,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,12/26/2018,11/6/2018,50d 21h 55m 21s,11950,Lesson,Live Session with Professor Brian Greene,4/10/2019
+68,68,68,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/10/2019
+68,68,68,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/9/2019,3/16/2019,23d 23h 21m 49s,12138,Lesson,3.6 Sara Walker QA,4/10/2019
+68,68,68,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/25/2019,2/9/2019,16d 4h 24m 38s,13826,Lesson,1.4 Thoughts on Life,4/10/2019
+68,68,68,3722,Resources,3,3,YES,12/28/2018,12/28/2018,1m 35s,3789,Lesson,Meet the Scholars,4/10/2019
+68,68,68,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/10/2019
+68,68,68,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/10/2019
+150,150,150,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,8/9/2019,,18952,Lesson,1.1 Course Overview,8/9/2019
+150,150,150,19780,Resources '19,0,4,NO,,,,,,,8/9/2019
+69,69,69,1613,A Beautiful Universe: Cumrun Vafa,29,60,NO,,12/28/2018,7d 13h 5m 45s,4575,Lesson,2.17 Partition Function and Black Hole Questions,7/22/2019
+69,69,69,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/22/2019
+69,69,69,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/22/2019
+69,69,69,2301,Beyond the Cloud of Everyday Experience: Brian Greene,64,67,NO,,11/12/2018,98d 4h 50m 58s,2619,Lesson,3.22 String Theory,7/22/2019
+69,69,69,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/22/2019
+69,69,69,11236,Life as the Next Frontier in Physics: Sara Walker,22,45,NO,,3/2/2019,39d 1h 4m 28s,12119,Lesson,2.6 Cellular Automata,7/22/2019
+69,69,69,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/24/2019,2/22/2019,1d 23h 50m 37s,13826,Lesson,1.4 Thoughts on Life,7/22/2019
+69,69,69,3722,Resources,0,3,NO,,,,,,,7/22/2019
+69,69,69,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/22/2019
+69,69,69,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/22/2019
+19,19,19,3967,Special Relativity – World Science U,0,359,NO,,9/27/2018,,649,Lesson,2.1 Speed Video,9/27/2018
+70,70,70,1613,A Beautiful Universe: Cumrun Vafa,57,60,NO,,12/28/2018,112d 7h 21m 2s,14083,Lesson,Live Session: Cumrun Vafa,8/1/2019
+70,70,70,15362,A Galactic Mystery: Justin Khoury,23,28,NO,,4/20/2019,61d 17h 30m 57s,18097,Lesson,3.1 Going Deeper,8/1/2019
+70,70,70,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/1/2019
+70,70,70,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,4/20/2019,11/14/2018,156d 12h 37m 24s,11950,Lesson,Live Session with Professor Brian Greene,8/1/2019
+70,70,70,15609,Einstein's Astrophysical Messengers: Gabriela González,28,31,NO,,6/19/2019,8m 58s,15626,Lesson,3.1 Going Deeper,8/1/2019
+70,70,70,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/21/2019,4/21/2019,2h 52m 32s,17610,Lesson,Live Session 2:  Sara Walker,8/1/2019
+70,70,70,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/18/2019,2/18/2019,3m 1s,13826,Lesson,1.4 Thoughts on Life,8/1/2019
+70,70,70,3722,Resources,0,3,NO,,,,,,,8/1/2019
+70,70,70,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/1/2019
+70,70,70,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/1/2019
+151,151,151,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,4,66,NO,,8/13/2019,6m 14s,18953,Lesson,1.2 What Would You Like to Learn?,8/12/2019
+151,151,151,19780,Resources '19,0,4,NO,,7/9/2019,,19798,Lesson,2019 Program Orientation Live Session,8/12/2019
+152,152,152,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,34,66,NO,,7/18/2019,21d 14h 58m 58s,19004,Lesson,3.2 What Would You Like to Learn?,8/3/2019
+152,152,152,19780,Resources '19,4,4,YES,7/18/2019,7/11/2019,7d 11h 58m 19s,19788,Lesson,Meet the 2019 Scholars,8/3/2019
+114,114,114,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,4/3/2019
+114,114,114,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,4/3/2019
+114,114,114,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/3/2019
+114,114,114,11236,Life as the Next Frontier in Physics: Sara Walker,1,45,NO,,3/5/2019,23h 13m 49s,14095,Lesson,1.3 What is Water?,4/3/2019
+114,114,114,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,1,5,NO,,2/22/2019,11d 2h 25m 34s,12089,Lesson,1.2 What is Life?,4/3/2019
+153,153,153,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,29,66,NO,,7/15/2019,26d 2h 48m 42s,19004,Lesson,3.2 What Would You Like to Learn?,8/10/2019
+153,153,153,19780,Resources '19,0,4,NO,,7/2/2019,,19788,Lesson,Meet the 2019 Scholars,8/10/2019
+27,27,27,1613,A Beautiful Universe: Cumrun Vafa,4,60,NO,,10/3/2018,22d 1h 53m,2016,Quiz,2.4 Sum of Integers,7/29/2019
+27,27,27,15362,A Galactic Mystery: Justin Khoury,7,28,NO,,6/4/2019,30m 43s,17532,Lesson,1.12 Superfluid Dark Matter,7/29/2019
+27,27,27,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/29/2019
+27,27,27,2301,Beyond the Cloud of Everyday Experience: Brian Greene,20,67,NO,,10/8/2018,17d 6h 48m 34s,5446,Quiz,Oddly Twisted Copy,7/29/2019
+27,27,27,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/29/2019
+27,27,27,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/29/2019
+27,27,27,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/29/2019
+27,27,27,3722,Resources,0,3,NO,,9/28/2018,,3902,Lesson,World Science Scholars Program Orientation,7/29/2019
+27,27,27,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/29/2019
+27,27,27,18395,The Universe's Hierarchy: George F.R. Ellis,32,32,YES,7/1/2019,7/1/2019,1h 10m 1s,18638,Lesson,2.11 Hierarchy of Structure and Causation,7/29/2019
+71,71,71,1613,A Beautiful Universe: Cumrun Vafa,52,60,NO,,12/28/2018,10d 22h 17m 22s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,4/28/2019
+71,71,71,15362,A Galactic Mystery: Justin Khoury,2,28,NO,,4/28/2019,16m 47s,17500,Lesson,1.2 The Case for Dark Matter,4/28/2019
+71,71,71,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,4/28/2019
+71,71,71,2301,Beyond the Cloud of Everyday Experience: Brian Greene,63,67,NO,,11/7/2018,53d 21h 52m 45s,4714,Lesson,3.18 String Theory,4/28/2019
+71,71,71,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,4/28/2019
+71,71,71,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/29/2019,24d 5h 5m 19s,15850,Lesson,What Is Life? Project,4/28/2019
+71,71,71,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/25/2019,2/25/2019,27m 18s,13826,Lesson,1.4 Thoughts on Life,4/28/2019
+71,71,71,3722,Resources,0,3,NO,,,,,,,4/28/2019
+71,71,71,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,4/28/2019
+71,71,71,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,4/28/2019
+154,154,154,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/24/2019
+154,154,154,19780,Resources '19,0,4,NO,,7/9/2019,,19787,Lesson,Meet the 2018 Scholars,7/24/2019
+155,155,155,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,
+155,155,155,19780,Resources '19,0,4,NO,,,,,,,
+157,157,157,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,12,66,NO,,7/17/2019,12d 10m 29s,18966,Lesson,1.13 Implications for Mass,7/18/2019
+157,157,157,19780,Resources '19,0,4,NO,,7/3/2019,,19798,Lesson,2019 Program Orientation Live Session,7/18/2019
+72,72,72,1613,A Beautiful Universe: Cumrun Vafa,33,60,NO,,12/11/2018,76d 13h 1m 43s,5126,Quiz,1.6 Puzzle: Designing a Highway System  Idea Generation,6/14/2019
+72,72,72,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,6/14/2019,,15568,Lesson,1.1 The Case for Dark Matter,6/14/2019
+72,72,72,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,6/14/2019
+72,72,72,2301,Beyond the Cloud of Everyday Experience: Brian Greene,59,67,NO,,11/2/2018,12d 52m 42s,2619,Lesson,3.22 String Theory,6/14/2019
+72,72,72,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,6/14/2019
+72,72,72,11236,Life as the Next Frontier in Physics: Sara Walker,17,45,NO,,3/18/2019,14d 4h 52m 29s,12118,Lesson,2.2 Emergence,6/14/2019
+72,72,72,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/10/2019,2/10/2019,11m 13s,13826,Lesson,1.4 Thoughts on Life,6/14/2019
+72,72,72,3722,Resources,0,3,NO,,11/12/2018,,3902,Lesson,World Science Scholars Program Orientation,6/14/2019
+72,72,72,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,6/14/2019
+72,72,72,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,6/14/2019
+85,85,85,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,3/1/2019,,7265,Lesson,3.1 Module Overview,3/27/2019
+85,85,85,15362,A Galactic Mystery: Justin Khoury,1,28,NO,,,,15761,Lesson,1.4 The Case for Dark Matter,3/27/2019
+85,85,85,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,3/27/2019
+85,85,85,2301,Beyond the Cloud of Everyday Experience: Brian Greene,3,67,NO,,10/20/2018,1d 16h 41m 54s,6329,Lesson,3.2 What Would You Like to Learn?,3/27/2019
+85,85,85,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,3/27/2019
+85,85,85,11236,Life as the Next Frontier in Physics: Sara Walker,10,45,NO,,2/22/2019,11d 1h 43m 15s,14625,Quiz,Cellular Automata Challenge,3/27/2019
+85,85,85,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/22/2019,2/8/2019,13d 17h 17m 20s,13826,Lesson,1.4 Thoughts on Life,3/27/2019
+85,85,85,3722,Resources,0,3,NO,,,,,,,3/27/2019
+85,85,85,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,3/27/2019
+85,85,85,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,3/27/2019
+164,164,164,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,7/12/2019
+164,164,164,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,7/12/2019
+164,164,164,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/12/2019
+164,164,164,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/12/2019
+165,165,165,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,7/30/2019
+165,165,165,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,7/30/2019
+165,165,165,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,7/16/2019,,18832,Lesson,2.1 Particle Physics and Particle Accelerators,7/30/2019
+165,165,165,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,7/30/2019
+165,165,165,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,7/30/2019
+165,165,165,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,7/16/2019,,15615,Lesson,1.2 Reality of Einstein,7/30/2019
+165,165,165,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/30/2019
+165,165,165,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/30/2019
+165,165,165,3722,Resources,0,3,NO,,,,,,,7/30/2019
+165,165,165,19780,Resources '19,0,4,NO,,,,,,,7/30/2019
+165,165,165,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,7/30/2019
+165,165,165,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/30/2019
+73,73,73,1613,A Beautiful Universe: Cumrun Vafa,55,60,NO,,12/7/2018,37d 12h 5m 9s,2346,Lesson,1.25 Summary of Mathematical Concepts,8/10/2019
+73,73,73,15362,A Galactic Mystery: Justin Khoury,12,28,NO,,4/21/2019,83d 9h 54m 53s,17532,Lesson,1.12 Superfluid Dark Matter,8/10/2019
+73,73,73,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/10/2019
+73,73,73,2301,Beyond the Cloud of Everyday Experience: Brian Greene,56,67,NO,,10/22/2018,22d 17h 42m 26s,2619,Lesson,3.22 String Theory,8/10/2019
+73,73,73,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/10/2019
+73,73,73,11236,Life as the Next Frontier in Physics: Sara Walker,39,45,NO,,3/4/2019,27d 5h 5m 49s,12114,Lesson,3.7 Signatures of Life,8/10/2019
+73,73,73,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/19/2019,2/10/2019,9d 18h 10m 4s,13826,Lesson,1.4 Thoughts on Life,8/10/2019
+73,73,73,3722,Resources,0,3,NO,,10/12/2018,,3902,Lesson,World Science Scholars Program Orientation,8/10/2019
+73,73,73,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/10/2019
+73,73,73,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/10/2019
+158,158,158,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,31,66,NO,,8/2/2019,9d 6h 24m 33s,19004,Lesson,3.2 What Would You Like to Learn?,8/11/2019
+158,158,158,19780,Resources '19,2,4,NO,,7/2/2019,30d 19h 56m 17s,19798,Lesson,2019 Program Orientation Live Session,8/11/2019
+108,108,108,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,4/2/2019
+108,108,108,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,4/2/2019
+108,108,108,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/2/2019
+108,108,108,11236,Life as the Next Frontier in Physics: Sara Walker,8,45,NO,,3/8/2019,20d 2h 6m 52s,14283,Lesson,2.13 Collective Behavior,4/2/2019
+108,108,108,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/21/2019,2/11/2019,10d 4h 16m 10s,14171,Lesson,1.3 Sara Walker QA,4/2/2019
+159,159,159,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,41,66,NO,,7/18/2019,20d 19h 47m 31s,18973,Lesson,1.18 Special Relativity,8/9/2019
+159,159,159,19780,Resources '19,0,4,NO,,,,,,,8/9/2019
+74,74,74,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,1/17/2019,12/15/2018,33d 12h 53m 27s,5125,Lesson,1.6 Puzzle: Designing a Highway System – Idea Generation,8/5/2019
+74,74,74,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/5/2019
+74,74,74,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+74,74,74,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,12/30/2018,10/24/2018,67d 5h 32m 49s,11950,Lesson,Live Session with Professor Brian Greene,8/5/2019
+74,74,74,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+74,74,74,11236,Life as the Next Frontier in Physics: Sara Walker,20,45,NO,,3/15/2019,13d 3h 2m 48s,14622,Lesson,2.3 Cellular Automata Challenge,8/5/2019
+74,74,74,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,5,5,YES,2/27/2019,2/27/2019,10m 42s,13826,Lesson,1.4 Thoughts on Life,8/5/2019
+74,74,74,3722,Resources,0,3,NO,,,,,,,8/5/2019
+74,74,74,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+74,74,74,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+160,160,160,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,7,66,NO,,8/2/2019,5d 6h 46m 49s,18959,Lesson,1.7 Implications for Time,8/7/2019
+160,160,160,19780,Resources '19,0,4,NO,,7/14/2019,,19798,Lesson,2019 Program Orientation Live Session,8/7/2019
+125,125,125,1613,A Beautiful Universe: Cumrun Vafa,20,60,NO,,4/23/2019,65d 17h 16m 51s,2467,Lesson,3.9 Questions on A Beautiful Universe,7/30/2019
+125,125,125,15362,A Galactic Mystery: Justin Khoury,5,28,NO,,5/24/2019,12d 22h 56m 5s,18097,Lesson,3.1 Going Deeper,7/30/2019
+125,125,125,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,7/30/2019,,18855,Lesson,3.3 End of Course Survey,7/30/2019
+125,125,125,2301,Beyond the Cloud of Everyday Experience: Brian Greene,18,67,NO,,4/23/2019,69d 19h 53m 28s,3684,Lesson,3.20 Questions about Quantum Mechanics or String Theory?,7/30/2019
+125,125,125,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/30/2019
+125,125,125,11236,Life as the Next Frontier in Physics: Sara Walker,12,45,NO,,6/6/2019,26d 37m 19s,14219,Lesson,3.3 Other Signatures?,7/30/2019
+125,125,125,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,1,5,NO,,6/6/2019,,12093,Lesson,1.1 The Challenge,7/30/2019
+125,125,125,3722,Resources,0,3,NO,,,,,,,7/30/2019
+125,125,125,19780,Resources '19,0,4,NO,,,,,,,7/30/2019
+125,125,125,18395,The Universe's Hierarchy: George F.R. Ellis,1,32,NO,,6/6/2019,27s,18406,Lesson,1.3 The Beginning of the Universe,7/30/2019
+119,119,119,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,7/29/2019
+119,119,119,15362,A Galactic Mystery: Justin Khoury,8,28,NO,,6/4/2019,50m 26s,18097,Lesson,3.1 Going Deeper,7/29/2019
+119,119,119,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,7/29/2019
+119,119,119,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,7/29/2019
+119,119,119,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,14,66,NO,,7/12/2019,3d 1h 32m 38s,19025,Lesson,3.20 Questions about Quantum Mechanics or String Theory?,7/29/2019
+119,119,119,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,7/29/2019
+119,119,119,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,,,,,,7/29/2019
+119,119,119,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,7/29/2019
+119,119,119,3722,Resources,0,3,NO,,7/1/2019,,3902,Lesson,World Science Scholars Program Orientation,7/29/2019
+119,119,119,19780,Resources '19,0,4,NO,,7/1/2019,,19786,Lesson,2019 Program Orientation Live Session,7/29/2019
+119,119,119,19118,The Early Universe: Matias Zaldarriaga,14,27,NO,,7/29/2019,18m 29s,19166,Lesson,3.1 Going Deeper,7/29/2019
+119,119,119,16503,The Test Course,0,21,NO,,,,,,,7/29/2019
+119,119,119,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,7/29/2019
+77,77,77,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,8/5/2019
+77,77,77,15362,A Galactic Mystery: Justin Khoury,0,28,NO,,,,,,,8/5/2019
+77,77,77,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/5/2019
+77,77,77,2301,Beyond the Cloud of Everyday Experience: Brian Greene,1,67,NO,,10/4/2018,8d 6h 23m 24s,5434,Quiz,Essentials of Special Relativity Copy,8/5/2019
+77,77,77,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,8/5/2019
+77,77,77,15609,Einstein's Astrophysical Messengers: Gabriela González,0,31,NO,,,,,,,8/5/2019
+77,77,77,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,6/29/2019,,12107,Lesson,3.1 Module Overview,8/5/2019
+77,77,77,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,8/5/2019
+77,77,77,3722,Resources,0,3,NO,,,,,,,8/5/2019
+77,77,77,19780,Resources '19,0,4,NO,,,,,,,8/5/2019
+77,77,77,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/5/2019
+77,77,77,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/5/2019
+110,110,110,1613,A Beautiful Universe: Cumrun Vafa,0,60,NO,,,,,,,4/2/2019
+110,110,110,2301,Beyond the Cloud of Everyday Experience: Brian Greene,0,67,NO,,,,,,,4/2/2019
+110,110,110,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,0,66,NO,,,,,,,4/2/2019
+110,110,110,11236,Life as the Next Frontier in Physics: Sara Walker,0,45,NO,,3/9/2019,,14247,Lesson,1.15 Live Session,4/2/2019
+110,110,110,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,0,5,NO,,,,,,,4/2/2019
+75,75,75,1613,A Beautiful Universe: Cumrun Vafa,60,60,YES,5/27/2019,2/13/2019,103d 3h 24m 38s,14083,Lesson,Live Session: Cumrun Vafa,8/13/2019
+75,75,75,15362,A Galactic Mystery: Justin Khoury,28,28,YES,5/27/2019,5/26/2019,1d 2h 3m 3s,18105,Lesson,3.2 Live Session: Justin Khoury,8/13/2019
+75,75,75,18818,"Accelerate, Collide, Detect: Barry Barish",0,31,NO,,,,,,,8/13/2019
+75,75,75,2301,Beyond the Cloud of Everyday Experience: Brian Greene,67,67,YES,2/13/2019,10/24/2018,112d 5h 7m 43s,4714,Lesson,3.18 String Theory,8/13/2019
+75,75,75,15609,Einstein's Astrophysical Messengers: Gabriela González,1,31,NO,,7/23/2019,53s,15614,Lesson,1.1 Module Overview,8/13/2019
+75,75,75,11236,Life as the Next Frontier in Physics: Sara Walker,45,45,YES,4/29/2019,3/21/2019,38d 13h 12m 48s,15850,Lesson,What Is Life? Project,8/13/2019
+75,75,75,11233,Life as the Next Frontier in Physics: Sara Walker | Prerequisite Module,3,5,NO,,2/11/2019,28m 13s,14171,Lesson,1.3 Sara Walker QA,8/13/2019
+75,75,75,3722,Resources,0,3,NO,,9/28/2018,,3902,Lesson,World Science Scholars Program Orientation,8/13/2019
+75,75,75,19118,The Early Universe: Matias Zaldarriaga,0,27,NO,,,,,,,8/13/2019
+75,75,75,18395,The Universe's Hierarchy: George F.R. Ellis,0,32,NO,,,,,,,8/13/2019
+162,162,162,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,2,66,NO,,7/16/2019,32m 45s,2739,Quiz,1.6 Essentials of Special Relativity,7/11/2019
+162,162,162,19780,Resources '19,0,4,NO,,,,,,,7/11/2019
+161,161,161,18947,Beyond the Cloud of Everyday Experience: Brian Greene 2019,15,66,NO,,7/17/2019,14d 18h 30m 37s,19016,Lesson,3.12 Quantum Wavelength/Position Uncertainty,7/31/2019
+161,161,161,19780,Resources '19,0,4,NO,,7/3/2019,,19798,Lesson,2019 Program Orientation Live Session,7/31/2019
